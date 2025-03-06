@@ -11,28 +11,28 @@ function Footer() {
                     </div>
                     <div className='col'>
                         <h3 className='text-muted fs-4 mb-4'>Company</h3>
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>About</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Products</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Pricing</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Referral programme</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Carrers</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Zerodha.tech</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Press & media</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Zerodha Cares (CSR)</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>About</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Products</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Pricing</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Referral programme</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Carrers</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Zerodha.tech</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Press & media</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Zerodha Cares (CSR)</a><br />
                     </div>
                     <div className='col'>
                         <h3 className='text-muted fs-4 mb-4'>Support</h3>
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Contact us</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Support Portal</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Z-Connect blog</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>List of charges</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Downloads & resources</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Contact us</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Support Portal</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Z-Connect blog</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>List of charges</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Downloads & resources</a><br />
                     </div>
                     <div className='col'>
                         <h3 className='text-muted fs-4 mb-4'>Account</h3>
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Open and account</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Fund transfer</a><br />
-                        <a href="" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>60 day challenge</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Open and account</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>Fund transfer</a><br />
+                        <a href="#" style={{ textDecoration: "None", color: "black" }} className='text-muted mb-3 fs-5'>60 day challenge</a><br />
                     </div>
                 </div>
                 <div className='mt-5 text-muted' style={{ fontSize: "14px" }}>
